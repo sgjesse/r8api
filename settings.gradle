@@ -1,0 +1,4 @@
+include ':r8api'
+include ':app:r8api'
+include ':app'
+rootProject.name = "D8 on Android"
